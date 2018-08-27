@@ -1,0 +1,624 @@
+13:50:21.582 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:15:09.203 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:20:59.948 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    Failed to program device 1 with bitstream C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit
+ 
+14:21:31.316 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:27:03.594 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:27:16.452 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    Failed to verify DONE bit after programming FPGA
+ 
+14:27:44.034 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Failed to read/write to the cable
+ 
+14:28:07.938 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:28:25.665 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:28:41.706 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+14:29:19.849 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:29:23.688 ERROR - Port COM6 is already in use. 
+14:29:34.281 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:29:35.389 ERROR - Port COM6 is already in use. 
+14:45:26.780 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:19:01.271 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:19:16.624 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:19:54.842 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:20:15.728 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:20:27.758 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:21:51.100 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:22:45.897 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:22:57.365 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:24:01.670 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:24:16.335 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:24:31.645 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:26:32.338 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:26:40.528 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:27:01.665 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:27:15.071 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:28:23.128 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:29:20.147 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:29:37.837 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:29:50.370 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:54:59.170 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:55:12.638 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:55:41.203 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:55:51.699 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:56:05.775 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:56:24.322 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:56:37.822 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:38:28.202 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+16:38:42.366 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:39:53.346 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+16:40:06.830 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:42:01.170 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:47:38.550 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+16:47:51.660 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:54:52.561 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:01:58.887 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:17:52.952 ERROR - Unexpected error while launching program. java.lang.RuntimeException: Cannot perform the Debug Command
+
+    Failed to lock the JTAG cable for exclusive access
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:18:07.131 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:19:09.138 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:19:22.217 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:26:35.143 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:26:48.666 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:27:21.027 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:28:16.378 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:29:10.949 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:29:26.963 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:30:02.502 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+17:30:02.502 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:30:17.948 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:30:32.867 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:35:32.505 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:41:11.029 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:46:03.847 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Failed to read/write to the cable
+ 
+17:47:00.297 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:51:56.862 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:52:10.579 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:56:55.845 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:57:08.277 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:57:20.919 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:23:21.398 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:31:47.309 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:42:22.551 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:43:52.691 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:44:09.338 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:44:26.811 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:09:35.998 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+19:10:00.004 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+19:10:14.174 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+19:10:26.543 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:44:18.294 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:35:22.545 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:35:45.604 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+18:36:18.023 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+18:36:24.997 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:36:41.097 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:36:59.695 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+18:37:37.574 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+18:39:23.638 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:42:38.988 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:42:55.391 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:43:41.511 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:44:30.309 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:45:23.306 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:46:52.261 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:47:12.409 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:47:30.410 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:48:26.182 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:50:00.536 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:09:09.543 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+19:09:18.404 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+19:09:39.349 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+19:09:46.511 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+19:09:53.501 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+19:10:29.008 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+19:10:45.921 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+19:11:10.914 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+19:21:42.214 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:36:51.033 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+20:06:23.192 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:06:35.531 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:30:32.444 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:43:26.005 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:50:33.139 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:58:03.641 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:58:12.568 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:12:05.691 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:21:19.933 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:39:32.726 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+22:05:03.916 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+22:09:32.266 INFO  - FPGA Cable Disconnected. All active launches will be terminated. 
+22:09:32.277 WARN  - Terminating existing sessions on processor microblaze_0 
+22:10:32.286 INFO  - Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup 
+22:10:32.291 ERROR - Timeout occured while waiting to get reply for command "xdisconnect 0" 
+22:10:32.295 ERROR - Disconnect target failed. 
+22:15:15.673 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+22:15:24.142 ERROR - Port COM6 is already in use. 
+22:23:03.861 ERROR - Port COM6 is already in use. 
+22:28:03.837 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+22:28:08.837 ERROR - Port COM6 is already in use. 
+22:32:54.922 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+22:32:58.123 ERROR - Port COM6 is already in use. 
+22:38:45.327 ERROR - Port COM6 is already in use. 
+23:11:27.296 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+12:22:32.046 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+12:22:56.103 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:23:35.844 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+12:23:45.754 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Failed to read/write to the cable
+ 
+12:24:05.163 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:24:32.385 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+12:25:11.150 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+12:25:20.935 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    Failed to verify DONE bit after programming FPGA
+ 
+12:39:23.920 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+12:51:58.778 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:01:15.094 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:02:04.571 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:06:17.484 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:06:52.078 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:09:47.108 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:12:47.887 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:53:34.292 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+14:30:29.457 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:37:25.342 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:56:36.632 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:30:44.797 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:31:05.848 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:40:24.830 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:22:50.258 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:33:34.998 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:52:30.582 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:59:54.675 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:16:13.114 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:24:01.378 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:32:09.100 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:55:23.782 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:01:39.550 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:06:31.927 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+20:16:50.815 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:08:47.676 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:09:28.930 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:29:12.273 WARN  - Terminating existing sessions on processor microblaze_0 
+15:29:17.707 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:20:17.180 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:25:23.194 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:30:02.673 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:33:52.295 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to lock the JTAG cable for exclusive access
+
+ 
+16:33:56.492 INFO  - FPGA Cable Disconnected. All active launches will be terminated. 
+16:34:15.053 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:35:20.311 INFO  - Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup 
+16:35:20.311 ERROR - Timeout occured while waiting to get reply for command "set_cur_target 0" 
+16:35:22.324 ERROR - Port COM6 is already in use. 
+16:35:22.620 ERROR - Unexpected error while launching program. java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+16:40:36.415 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:40:38.490 ERROR - Unexpected error while launching program. java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.stop(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.CPURunSession.terminate(Unknown Source)
+
+16:40:53.061 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:41:08.750 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+16:41:28.708 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:29:53.866 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:00:34.538 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:20:58.341 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:39:24.096 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:49:35.760 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:59:45.569 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:15:40.674 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+12:22:05.747 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+12:41:06.345 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+13:02:53.768 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:42:20.271 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:42:21.660 INFO  - The hardware specification for project 'proj_hw_platform' is different from C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:42:21.707 INFO  - Copied contents of C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml into \proj_hw_platform\system.xml. 
+14:42:21.722 INFO  - Copied contents of C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.bit into \proj_hw_platform\system.bit. 
+14:42:21.722 INFO  - Copied contents of C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system_bd.bmm into \proj_hw_platform\system_bd.bmm. 
+14:42:23.235 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+14:42:24.187 INFO  - Updating MSS for Board Support Package Project: helloCamera_bsp.
+		 The following driver assignments were removed:
+			Peripheral Instance: rs232_uart_0, driver: uartlite_v2_01_a.
+		 The following parameters were removed:
+			Component: standalone_v3_10_a, parameter: stdin.
+			Component: standalone_v3_10_a, parameter: stdout.
+		 The following new driver assignments were made:
+			Peripheral Instance: xps_uart16550_0, driver: uartns550_v2_01_a.
+ 
+14:42:25.029 INFO  - Updating hardware inferred compiler options for helloCamera. 
+14:42:25.045 INFO  - Clearing existing target manager status. 
+14:55:08.133 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:47:02.858 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:47:04.714 INFO  - The hardware specification for project 'proj_hw_platform' is different from C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:47:04.746 INFO  - Copied contents of C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml into \proj_hw_platform\system.xml. 
+17:47:04.761 INFO  - Copied contents of C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.bit into \proj_hw_platform\system.bit. 
+17:47:04.761 INFO  - Copied contents of C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system_bd.bmm into \proj_hw_platform\system_bd.bmm. 
+17:47:07.741 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+17:47:08.692 INFO  - Updating MSS for Board Support Package Project: helloCamera_bsp.
+		 The following driver assignments were removed:
+			Peripheral Instance: xps_uart16550_0, driver: uartns550_v2_01_a.
+		 The following new driver assignments were made:
+			Peripheral Instance: xps_uartlite_0, driver: uartlite_v2_01_a.
+ 
+17:47:09.519 INFO  - Updating hardware inferred compiler options for helloCamera. 
+17:47:09.550 INFO  - Clearing existing target manager status. 
+17:47:37.414 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+17:47:54.677 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+17:48:38.234 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:49:27.861 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:36:05.193 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:36:21.126 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:36:37.705 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:36:57.457 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:37:16.435 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+18:38:01.440 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:40:15.893 ERROR - Port COM6 is already in use. 
+18:41:01.538 ERROR - Port COM6 is already in use. 
+18:41:25.895 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:58:02.965 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:11:53.808 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:13:24.860 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:33:15.358 INFO  - Settings changed on project helloCamera_bsp. Triggering a rebuild... 
+15:33:15.690 INFO  - Refreshed build settings on project helloCamera 
+15:33:40.429 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:34:30.549 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:35:52.031 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+15:36:51.691 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:06:00.455 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:15:42.295 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:15:56.624 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+16:16:10.132 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:24:19.738 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:24:35.680 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+16:24:48.786 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:32:41.964 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:48:55.746 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:56:50.516 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:57:21.358 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+16:58:09.001 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:58:10.084 INFO  - System reset is completed. 
+16:58:35.759 INFO  - System reset is completed. 
+17:04:06.891 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:13:55.819 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:14:59.176 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:24:05.770 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:26:36.993 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:30:05.999 ERROR - Port COM6 is already in use. 
+17:33:26.713 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:33:29.898 ERROR - Port COM6 is already in use. 
+17:39:02.564 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:39:34.349 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:49:00.581 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:58:48.865 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:59:03.982 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+17:59:16.274 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+18:06:09.585 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:06:32.374 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:12:12.071 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:21:37.611 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:21:56.986 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:27:03.179 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:27:18.198 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:34:16.586 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:43:59.352 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:58:36.134 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:04:27.081 ERROR - Port COM6 is already in use. 
+19:08:31.093 ERROR - Port COM6 is already in use. 
+19:08:51.613 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:09:25.758 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:09:39.498 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:10:18.082 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+19:11:09.450 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+19:11:25.742 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:13:40.574 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:14:19.488 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+19:22:23.120 ERROR - Port COM6 is already in use. 
+19:46:57.355 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+13:34:11.582 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+13:38:48.422 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+13:45:26.614 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:45:53.638 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:48:07.287 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:48:25.247 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:48:43.534 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:49:30.338 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:58:51.241 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+13:59:06.638 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:05:09.124 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:11:02.219 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:16:07.375 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+14:28:45.483 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:12:08.084 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:21:37.989 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:22:07.173 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:28:32.371 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:01:37.428 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:52:35.952 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:59:01.823 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:10:18.385 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:15:27.035 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:21:27.712 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:26:56.740 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:36:08.158 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:58:37.939 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:28:27.268 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:33:02.612 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:00:50.003 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:08:05.533 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:49:15.740 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:18:27.306 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:24:18.880 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+15:24:28.781 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+15:24:57.439 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+15:26:07.264 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Failed to read/write to the cable
+ 
+15:26:47.155 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Failed to read/write to the cable
+ 
+15:26:49.588 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Failed to read/write to the cable
+ 
+15:28:52.655 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+15:35:57.992 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+15:41:17.252 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+15:46:38.585 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+15:51:57.626 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+15:58:38.053 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:08:29.984 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:26:35.456 ERROR - Port COM6 is already in use. 
+16:52:21.976 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+16:57:11.658 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:21:56.121 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+17:45:43.958 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:23:54.489 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:24:23.938 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+14:33:35.837 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:33:47.786 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:34:05.132 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:34:26.646 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:34:41.390 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Digilent Plugin: device enumeration failed (DmgrGetInfo, SN, erc = 3075).
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:35:02.997 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:35:13.293 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+14:35:27.920 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:35:39.824 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:35:58.102 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    Failed to program device 1 with bitstream C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit
+ 
+14:36:29.194 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+14:36:29.194 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 
+14:36:51.235 INFO  - Processing command line option -hwspec C:\Users\CS152B\Group4\VMODCameraTutorial\proj\SDK\SDK_Export\hw\system.xml. 
+14:37:33.688 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    Failed to program device 1 with bitstream C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit
+ 
+14:37:58.762 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+14:38:46.526 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to lock the JTAG cable for exclusive access
+
+ 
+14:41:01.267 WARN  - Terminating existing sessions on processor microblaze_0 
+14:41:05.199 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Digilent Plugin: failed to open device (DmgrOpen, erc = 3072).
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:41:26.167 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Digilent Plugin: failed to open device (DmgrOpen, erc = 3072).
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:43:20.730 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Digilent Plugin: failed to open device (DmgrOpen, erc = 3072).
+
+    Failed to Open JTAG Cable
+    Unknown Error
+ 
+14:45:15.628 INFO  - FPGA configured successfully with bitstream "C:/Users/CS152B/Group4/VMODCameraTutorial/proj/SDK/proj_hw_platform/download.bit" 
+14:45:38.186 ERROR - Port COM6 is already in use. 
+15:23:11.901 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
